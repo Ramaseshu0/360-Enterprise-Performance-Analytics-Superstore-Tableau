@@ -91,5 +91,5 @@ Example:
 ```
 
 
-<img src="screenshots/Story-11.png" width="800">
+<img src="screenshots/Story-1.png" width="800">
 
