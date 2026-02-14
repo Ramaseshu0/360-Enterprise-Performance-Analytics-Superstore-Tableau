@@ -87,4 +87,4 @@ _Add screenshots inside the `screenshots/` folder and reference them here_
 
 Example:
 ```markdown
-![Executive Dashboard](screenshots/executive-dashboard.png)
+![Executive Dashboard](screenshots/Story-1.png)
