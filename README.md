@@ -83,13 +83,15 @@ Includes:
 
 ## 📸 Dashboard Preview  
 
-_Add screenshots inside the `screenshots/` folder and reference them here_
-
-Example:
-```markdown
-![Executive Dashboard](screenshots/Story-1.png)
-```
-
-
 <img src="screenshots/Story-1.png" width="800">
+
+<img src="screenshots/Story-2.png" width="800">
+
+<img src="screenshots/Story-3.png" width="800">
+
+<img src="screenshots/Story-4.png" width="800">
+
+<img src="screenshots/Story-5.png" width="800">
+
+<img src="screenshots/Story-6.png" width="800">
 
