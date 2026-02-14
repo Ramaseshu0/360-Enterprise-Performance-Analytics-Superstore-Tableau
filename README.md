@@ -88,3 +88,8 @@ _Add screenshots inside the `screenshots/` folder and reference them here_
 Example:
 ```markdown
 ![Executive Dashboard](screenshots/Story-1.png)
+```
+
+
+<img src="screenshots/Story-11.png" width="800">
+
